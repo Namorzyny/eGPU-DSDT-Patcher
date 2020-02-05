@@ -1,0 +1,7 @@
+QWordMemory (ResourceProducer, PosDecode, MinFixed, MaxFixed, Cacheable, ReadWrite,
+    0x0000000000000000, // Granularity
+    0x0000000C20000000, // Range Minimum
+    0x0000000E0FFFFFFF, // Range Maximum
+    0x0000000000000000, // Translation Offset
+    0x00000001F0000000, // Length
+    ,, , AddressRangeMemory, TypeStatic)
